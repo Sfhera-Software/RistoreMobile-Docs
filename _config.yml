@@ -1,0 +1,5 @@
+title: "Documentação do Ristore Mobile"
+description: "Guias, versões, FAQ e changelogs do RistoreMobile"
+theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: pretty
