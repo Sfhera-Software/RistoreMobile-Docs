@@ -4,7 +4,7 @@ theme: just-the-docs
 
 # Caminho base (necessário se o site estiver em um subdiretório, como em GitHub Pages)
 # Ex: se o repositório for sfhera-software.github.io/RistoreMobile-Docs
-baseurl: "/RistoreMobile-Docs"
+baseurl: "/RistoreMobile-Docs/Docs"
 
 # Logo (opcional)
 # logo: "/Docs/Assets/Images/icone_laranja.png"
