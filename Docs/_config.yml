@@ -1,5 +1,19 @@
-title: "Documentação do Ristore Mobile"
-description: "Guias, versões, FAQ e changelogs do RistoreMobile"
-theme: jekyll-theme-cayman
-markdown: kramdown
-permalink: pretty
+title: RistoreMobile Docs
+description: Documentação oficial do aplicativo RistoreMobile
+theme: just-the-docs
+
+# Caminho base (necessário se o site estiver em um subdiretório, como em GitHub Pages)
+# Ex: se o repositório for sfhera-software.github.io/RistoreMobile-Docs
+baseurl: "/RistoreMobile-Docs"
+
+# Logo (opcional)
+# logo: "/Docs/Assets/Images/icone_laranja.png"
+
+# Navegação automática baseada em estrutura de diretórios
+just_the_docs:
+  search_enabled: true
+  show_sidebar: true
+  collections:
+    Versoes:
+      name: Versões
+      nav_fold: true
